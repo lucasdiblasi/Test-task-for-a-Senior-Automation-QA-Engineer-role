@@ -1,0 +1,1 @@
+# senior_qa_automation_challenge_cypress
