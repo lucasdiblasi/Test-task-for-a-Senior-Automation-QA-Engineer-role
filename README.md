@@ -1,27 +1,27 @@
 ## Challenge
 
-This is an automation challenge where two validations are made, one for the API and the other for the UI, in this automation some necessary validations were made.
+This is an automation challenge where two validations are made, one for the API and the other for the UI, in this automation some necessary validations were made.<br>
 
-API Test should do the following:
-    1) Call https://api.publicapis.org/entries
-    2) Read the response, find all objects with property “Category: Authentication & Authorization”
-    3) Compare, count, and verify the number of objects where the property above appears
-    4) Finally print found objects to console
+API Test should do the following:<br>
+    1) Call https://api.publicapis.org/entries<br>
+    2) Read the response, find all objects with property “Category: Authentication & Authorization”<br>
+    3) Compare, count, and verify the number of objects where the property above appears<br>
+    4) Finally print found objects to console<br>
 
-UI Test should do the following:
-    1) Go to https://www.saucedemo.com/
-    2) Log in to the site. Verify that the items are sorted by Name ( A -> Z ).
-    3) Change the sorting to Name ( Z -> A).
-    4) Verify that the items are sorted correctly.
+UI Test should do the following:<br>
+    1) Go to https://www.saucedemo.com/<br>
+    2) Log in to the site. Verify that the items are sorted by Name ( A -> Z ).<br>
+    3) Change the sorting to Name ( Z -> A).<br>
+    4) Verify that the items are sorted correctly.<br>
 
 
 ### Testing Tools
 
-Playwright
-Javascript
-Jest
-Supertes
-Allure Report
+Playwright<br>
+Javascript<br>
+Jest<br>
+Supertes<br>
+Allure Report<br>
 
 ### How to run?
 
