@@ -20,7 +20,7 @@ UI Test should do the following:<br>
 Playwright<br>
 Javascript<br>
 Jest<br>
-Supertes<br>
+Supertest<br>
 Allure Report<br>
 
 ### How to run?
